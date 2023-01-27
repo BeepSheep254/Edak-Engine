@@ -53,6 +53,7 @@ jobs:
           haxelib git polymod https://github.com/larsiusprime/polymod.git
           haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
           haxelib install actuate
+          haxelib git SScript https://github.com/TheWorldMachinima/SScript
           haxelib git yaml https://github.com/Paidyy/haxe-yaml.git
           haxelib install udprotean
           haxelib git linc_clipboard https://github.com/josuigoa/linc_clipboard.git
@@ -108,6 +109,7 @@ jobs:
           haxelib install udprotean
           haxelib git linc_clipboard https://github.com/josuigoa/linc_clipboard.git
           haxelib install markdown
+          haxelib git SScript https://github.com/TheWorldMachinima/SScript
           haxelib git hxvm-luajit https://github.com/nebulazorua/hxvm-luajit
           haxelib git faxe https://github.com/uhrobots/faxe
           haxelib git polymod https://github.com/larsiusprime/polymod.git
@@ -162,6 +164,7 @@ jobs:
           haxelib git linc_clipboard https://github.com/josuigoa/linc_clipboard.git
           haxelib install markdown
           haxelib git faxe https://github.com/uhrobots/faxe
+          haxelib git SScript https://github.com/TheWorldMachinima/SScript
           haxelib git polymod https://github.com/larsiusprime/polymod.git
           haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
           haxelib install actuate
